@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Lucas Canales
 
+Soy un desarrollador web apasionado por crear soluciones modernas y eficientes.  
+Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nuevas tecnologías para ampliar mis habilidades.
+
+## 🚀 Tech Stack
+
+### Frontend
+- ⚛️ React
+- 🖼️ Vue
+- 🅰️ Angular
+
+### Backend
+- 🚀 NestJS
+- 🐘 Laravel
+- 🔷 ASP.NET
+
+### Otros
+- 🐙 Git & GitHub
+- 🐳 Docker
+
+## 🌱 Actualmente aprendiendo...
+- Proyectos con el uso dd tecnología web
+- Arquitecturas, buenas prácticas y DevOps
 <!--
-**luk-0-o/Luk-0-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💬 Puedes preguntarme sobre
+- Cómo estructurar proyectos frontend/backend
+- Integración de APIs
 -->
+<!--
+## 📫 Cómo contactarme
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+-->
+## ⚡ Algo curioso sobre mí
+Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
