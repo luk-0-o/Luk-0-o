@@ -7,18 +7,17 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 ## 🚀 Tech Stack
 
 ### Frontend
-- ⚛️ React
-- 🖼️ Vue
-- 🅰️ Angular
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
 ### Backend
-- 🚀 NestJS
-- 🐘 Laravel
-- 🔷 ASP.NET
-
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ### Otros
-- 🐙 Git & GitHub
-- 🐳 Docker
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ## 🌱 Actualmente aprendiendo...
 - Proyectos con el uso de tecnologías web
