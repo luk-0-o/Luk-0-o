@@ -1,4 +1,5 @@
 # 👋 ¡Hola! Soy Lucas Canales
+![Lucas's stats](https://github-readme-stats.vercel.app/api?username=luk-0-o&show_icons=true&theme=radical)
 
 Soy un desarrollador web apasionado por crear soluciones modernas y eficientes.  
 Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nuevas tecnologías para ampliar mis habilidades.
@@ -20,7 +21,7 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 - 🐳 Docker
 
 ## 🌱 Actualmente aprendiendo...
-- Proyectos con el uso dd tecnología web
+- Proyectos con el uso de tecnologías web
 - Arquitecturas, buenas prácticas y DevOps
 <!--
 ## 💬 Puedes preguntarme sobre
@@ -33,6 +34,7 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 -->
 ## ⚡ Algo curioso sobre mí
 Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
+-Me gusta la música 🎸 y el arte 🎨
 
 ---
 
