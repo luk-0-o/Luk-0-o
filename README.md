@@ -32,8 +32,8 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 - [LinkedIn](https://www.linkedin.com/in/tu-usuario)
 -->
 ## ⚡ Algo curioso sobre mí
-Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
--Me gusta la música 🎸 y el arte 🎨
+- Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
+- Me gusta la música 🎸 y el arte 🎨.
 
 ---
 
