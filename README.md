@@ -1,5 +1,9 @@
-# 👋 ¡Hola! Soy Lucas Canales
-![Lucas's stats](https://github-readme-stats.vercel.app/api?username=luk-0-o&show_icons=true&theme=radical)
+# 👋 ¡Hola! Soy Lucas Canales..
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaswebdeveloper">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/>
+  </a>
+</p>
 
 Soy un desarrollador web apasionado por crear soluciones modernas y eficientes.  
 Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nuevas tecnologías para ampliar mis habilidades.
