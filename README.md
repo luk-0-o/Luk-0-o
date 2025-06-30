@@ -53,6 +53,17 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luk-0-o&theme=github-dark-blue&hide_border=false" alt="streak stats"/>
 </p>
+<!--
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=luk-0-o&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </p>
+-->
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-0-o&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+-->
+
 ---
 <p align="center">
   ⭐ ¡Gracias por visitar mi perfil!
