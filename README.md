@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lucas Canales..
+# 👋 ¡Hola! Soy Lucas Canales.
 <p align="center">
   <a href="https://www.linkedin.com/in/lucaswebdeveloper">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/>
