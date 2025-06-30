@@ -20,6 +20,8 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ### Dev Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
