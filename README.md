@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy Lucas Canales.
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucaswebdeveloper">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/>
-  </a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]
 
 Soy un desarrollador web apasionado por crear soluciones modernas y eficientes.  
 Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nuevas tecnologías para ampliar mis habilidades.
