@@ -40,6 +40,7 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 - Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
 - Me gusta la música 🎸 y el arte 🎨.
 
+![Lucas's stats](https://streak-stats.demolab.com?user=luk-0-o&theme=radical&hide_border=true)
 ---
 
 ⭐ ¡Gracias por visitar mi perfil!
