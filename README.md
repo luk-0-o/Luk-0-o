@@ -49,7 +49,8 @@ Me especializo tanto en **frontend** como en **backend**, y disfruto aprender nu
 -->
 ## ⚡ Algo curioso sobre mí
 - Me gusta resolver problemas lógicos y participar en proyectos que representen un desafío técnico.
-- Me gusta la música 🎸 y el arte 🎨.
+- Entusiasta de la música 🎸 y el arte 🎨.
+- Aficionado de Linux 🐧 y otros mundillos de la informática.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luk-0-o&theme=github-dark-blue&hide_border=false" alt="streak stats"/>
 </p>
